@@ -1,0 +1,192 @@
+[
+    {
+        "id": "1209526",
+        "categoria": "organizadores",
+        "precio": "1.095",
+		"nombre":"Estanteria Blanca",
+        "descripcion": "Estanter\u00eda Blanca 4 Estantes 40x20x73 Cm",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/estanteria-blanca-4-estantes-40x20x73-cm-1209526",
+        "disponible": "False"
+       
+    },
+    {
+        "id": "1206818",
+        "categoria": "airelibre",
+        "precio": "3.665",
+		"nombre":"Enrollador de Manguera",
+        "descripcion": "E Nrollador De Manguera Con Ruedas",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/enrollador-de-manguera-con-ruedas-1206818",
+        "disponible": "False"
+       
+    },
+    {
+        "id": "1268372",
+        "categoria": "electro",
+        "precio": "4.995",
+		"nombre":"ventilador Turbo",
+        "descripcion": "Ventilador Turbo 20 Pulgadas Protalia V-20T",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/ventilador-turbo-20-pulgadas-protalia-v-20t-1268372",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1293958",
+        "categoria": "iluminacion",
+        "precio": "2.495",
+		"nombre":"Reflector Led",
+        "descripcion": "Reflector Led 50W Frio Radium",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/reflector-led-50w-frio-radium-1293958",
+        "disponible": "False"
+       
+    },
+    {
+        "id": "1195341",
+        "categoria": "construccion",
+        "precio": "249",
+		"nombre":"Zocalo Liso",
+        "descripcion": "Zocalo Liso Curvo \\xa0\\xa013X70X2.44",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/zocalo-liso-curvo-%C2%A0%C2%A013x70x244-1195341",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1262197",
+        "categoria": "bazarydeco",
+        "precio": "1.300",
+		"nombre":"Portavela",
+        "descripcion": "Portavela Con Pie Rayado S Gris",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/portavela-con-pie-rayado-s-gris-1262197",
+        "disponible": "False",
+     },
+    {
+        "id": "9010223",
+        "categoria": "herramientasyautomotor",
+        "precio": "690",
+		"nombre":"Cinta Metrica",
+        "descripcion": "Cinta M\u00e9trica Met\u00e1lica 3 M. Robust",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/-cinta-metrica-metalica-3m-robust-arg-9010223",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1125441",
+        "categoria": "textil",
+        "precio": "6.950",
+		"nombre":"Roller",
+        "descripcion": "Roller 100x250 Cm. Blackout Textura Crudo",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/roller-100x250-cm-blackout-textura-crudo-1125441",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1012707",
+        "categoria": "terminaciones",
+        "precio": "519",
+		"nombre":"Vinilo ",
+        "descripcion": "Vinilo Wallstickers Blanco Negro Diente Leon",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/wallstickers-blanco-negro-diente-leon-1012707",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1260923",
+        "categoria": "herramientasyautomotor",
+        "precio": "610",
+		"nombre":"Tir para Radiadores",
+        "descripcion": "Tir Para Radiadores Amarillo X 1 L",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/-tir-radiador-amarillo-1lt-bardahl-1260923",
+        "disponible": "False"
+      },
+    {
+        "id": "1238881",
+        "categoria": "muebles",
+        "precio": "15.990",
+		"nombre":"Colchon",
+        "descripcion": "Colch\u00f3n Resorte Tela Sabana 140X190X23",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/colchon-re-preston-sabana-tm-140x190x23-1238881",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1211787",
+        "categoria": "terminaciones",
+        "precio": "3.540,96",
+		"nombre":"Piso Porcellanato",
+        "descripcion": "Piso Porcellanato Fachazz 60x120cm",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/-piso-porc-fachazz-wh-60x120-144-36-1211787",
+        "disponible": "False"
+       
+    },
+    {
+        "id": "1115201",
+        "categoria": "banosycocinas",
+        "precio": "5.225",
+		"nombre":"Set de 6 piezas",
+        "descripcion": "Set de 6 Piezas L\u00ednea 8000 Peirano",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/set-de-6-piezas-linea-8000-peirano-1115201",
+        "disponible": "False"
+		
+    },
+    {
+        "id": "1089616",
+        "categoria": "organizadores",
+        "precio": "2.295",
+		"nombre":"Tender de Pared",
+        "descripcion": "Tender de Pared Exterior 80 Cm 7 Varillas",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/tendedero-de-pared-ext-80-cm-7-varillas-1089616",
+        "disponible": "False"
+        
+    },
+    {
+        "id": "1225606",
+        "categoria": "airelibre",
+        "precio": "648",
+		"nombre":"Maceta",
+        "descripcion": "Maceta 30 Cm. Coco Simple",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/maceta-coco-simple-30cm-1225606",
+        "disponible": "False",
+        
+    },
+    {
+        "id": "1950279",
+        "categoria": "electro",
+        "precio": "4.495",
+		"nombre":"Calefactor",
+        "descripcion": "Calefactor Liliana Infrarrojo CI 157",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/calefactor-liliana-infrarrojo-ci-157-1950279",
+        "disponible": "False",
+        
+    },
+    {
+        "id": "9013023",
+        "categoria": "iluminacion",
+        "precio": "4.195",
+		"nombre":"Araña Luces",
+        "descripcion": "Ara\u00f1a Chocolate E27 3 Luces",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/arana-chocolate-e27-3-luces-9013023",
+        "disponible": "False",
+        
+    },
+	
+    {
+        "id": "1262556",
+        "categoria": "bazarydeco",
+        "precio": "1.500",
+		"nombre":"Espejo de metal",
+        "descripcion": "Espejo Metal 1 West",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/espejo-metal-1-west-1262556",
+        "disponible": "False",
+       
+    },
+    {
+        "id": "1163690",
+        "categoria": "construccion",
+        "precio": "385",
+		"nombre":"Pino cepillado",
+        "descripcion": "Pino Cepillado 1x6x2.44 Mts",
+        "imagen": "https://www.easy.com.ar/tienda/es/easyar/pino-cepillado-1x6x244-mts-nc-1163690",
+        "disponible": "False",
+       
+    }
+
+]
